@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo letters directed to the mighty ones of England, Scotland, and Ireland, but especially to the King, concerning these present calamities and commotions of warre: being great and present judgements denounced against these kingdomes, / by Lodovvick Frederick Gifftheyl. Who, for the space of these nineteen years last past, hath travelled through all Germany, Denmarke, Sweden, France and England, denouncing unto the E65erour, and all kings, princes, generals and commanders of armies, from time to time, the approaching judgement of the Lord, for their cruell effusion of Christian blood, contrary to the expresse word of God, and the example of Christ and his Apostles in the New Covenant of grace and peace; of all which his said denunciations they have from time to time, found the truth by wofull experience.</title>
+            <author>Gifftheil, Ludwig Friedrich, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85983</idno>
+            <idno type="STC">Wing G696</idno>
+            <idno type="STC">Thomason E247_14</idno>
+            <idno type="STC">ESTC R202290</idno>
+            <idno type="EEBO-CITATION">99862631</idno>
+            <idno type="PROQUEST">99862631</idno>
+            <idno type="VID">114796</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114796)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E247[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo letters directed to the mighty ones of England, Scotland, and Ireland, but especially to the King, concerning these present calamities and commotions of warre: being great and present judgements denounced against these kingdomes, / by Lodovvick Frederick Gifftheyl. Who, for the space of these nineteen years last past, hath travelled through all Germany, Denmarke, Sweden, France and England, denouncing unto the E65erour, and all kings, princes, generals and commanders of armies, from time to time, the approaching judgement of the Lord, for their cruell effusion of Christian blood, contrary to the expresse word of God, and the example of Christ and his Apostles in the New Covenant of grace and peace; of all which his said denunciations they have from time to time, found the truth by wofull experience.</title>
+                  <author>Gifftheil, Ludwig Friedrich, d. 1661.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rob. Wood.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Covenant theology --  Biblical teaching --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:114796:1"/>
+            <pb n="1" facs="tcp:114796:1"/>
+            <head>Two Letters directed &amp;c.</head>
+            <p>
+               <note place="margin">Luke <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. Matth. 23. 24. Zeph. 3. Rev. 16. 1 Cor 3. Col. 2. Acts 20. 1 John 3. 5. James 3. 4, <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2 Pet. 2. 1 Pet 5.</note> 
+               <seg rend="decorInit">T</seg>HIS preſent diſtreſſe, and commotions of warres in the world, whereby mankinde is ruined, flow from the externall Religi<g ref="char:EOLhyphen"/>ons, and contentions of the ſhepheards, falſe teachers, 2. Pet. 2. Prieſts and Pro<g ref="char:EOLhyphen"/>phets, never knowne, nor ſent of God, Matth. 7. by whoſe wicked, falſe, and per<g ref="char:EOLhyphen"/>verſe Doctrine, the Divell hath already wholly poſſeſſed almoſt every man with hatred, envy, enmity, Cainicall wrath and bitterneſſe, and overcome and devoured, and brought them under his Kingdome. <hi>Epiſt. Iude.</hi>
+            </p>
+            <p>
+               <note place="margin">Marke 13. Matth. 24. Eſay. 1. 5. 24. Luke 1<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Zeph. 1. Jer. 5. Rev. 16. 17. Wiſd. 6.</note> Now ſeeing that Germany, by reaſon of ſuch abominations, ſinnes, unbeliefe, and unrighteouſnes which hath taken the upper hand, is ſo far gone to ruine in men and beaſts, for an example unto other Countries, therefore I ſignifie but eſpecially unto the Lords and chiefe men of the Kingdomes of England, Scotland, and Ireland according to the juſtice of God, from the ſupreame Judge, unto whom the Heavens and Earth belongeth, according <note place="margin">Eſay 66. Heb. 4. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. Joel 2. 1 Theſ 5. 1 Cor. 3. 6. 15. Heb. 3. 12. G<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l 5. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1 Tim. 1. Luke 10.</note>to my former writings directed and ſent to them, yet Once, that that they enter deepe into their hearts and conſciences, to put a<g ref="char:EOLhyphen"/>way and remove thence all workes of darkneſſe, which offend God and the Holy Spirit, and become ſober from them, and alſo remove the cauſes of the externall unquietneſſe or diviſion, accor<g ref="char:EOLhyphen"/>ding to the true ground, and out of a Chriſtian love, and unfeign<g ref="char:EOLhyphen"/>ed faith, as they are bound before God, to give aid and help, that their Neighbour, or their fellow-members, <hi>viz.</hi> the poore and <note place="margin">1 Cor 12. Rom 12. Jerem. 30. Pſal 72. Deut. 32.</note>oppreſſed in Germany, which lie already in the duſt and mire of death, may be delivered, Dan. 12. But if they ſhall faile in this, then ſhall the ſame God, who in his fierce anger hath ſo far con<g ref="char:EOLhyphen"/>ſumed Germany, by reaſon of ſuch vices and ſinnes, the ſame <note place="margin">Eſay 45.</note>God, I ſay, who formeth Light and createth Darkneſſe, maketh
+<pb n="2" facs="tcp:114796:2"/>
+               <note place="margin">Amos 5. Ezeck. 15. 21, 22. Matth. 24. 1 John 3. Pſal. 14. 109. Jerem 30. Eſay 30. 42. 51. 59. Pſal. 4. 89. 119. Mich. 7. 2 Tim. 3. 4. John 1. 8. 10. Ezeck. 5<g ref="char:punc">▪</g> 6. Eſd 4. 16. Levit. 26. Ezeck 2. 20. Mal. 1. 4. Eſay 3. 29. Rom. 1. Matth. 24. Pſal. 82. Rom. 9. Eſay 10. 28.</note> peace and createth the evill, kindle ſuch a fire among you, that you ſhall not be able to quench it againe, Zeph. 3.</p>
+            <p>The Heathen or falſe Chriſtians, yea rather the Divels Chri<g ref="char:EOLhyphen"/>ſtians in Germany, have indevoured to doe the ſame unto God in the Heavens, and his ſervant David, whom God in this preſent and laſt time hath raiſed heere on Earth for the honour of his ho<g ref="char:EOLhyphen"/>ly name, and for the Truth and eternall Righteouſneſſe of God; which the Jewes did formerly unto their King: whereupon they in many Countries have ſo fared for a great while, that the one hath beene forced to devour the other, far worſe then in the de<g ref="char:EOLhyphen"/>ſtruction of Jeruſalem. But the remnant which yet ſpurn againſt God, perſevering ſtill in their obſtinacy and contempt of God, and thinking to be hidden from the eyes of the Majeſty of God, never ſo much as endevouring to put out of their hearts and con<g ref="char:EOLhyphen"/>ſciences their vaine devices, their ſinnes, their unbeliefe, and un<g ref="char:EOLhyphen"/>righteouſneſſe, which formerly was crept in, nor any wayes wil<g ref="char:EOLhyphen"/>ling to give any outward ayd and aſſiſtance, that this ruine, accor<g ref="char:EOLhyphen"/>ding to righteouſneſſe may be removed, that remnant, I ſay, ſhall <note place="margin">Gen. 6. 7. 19. Epiſt. Jude. Jer. 30. 2 Pet. 3.</note>have the ſame God, who drowned the firſt world through the Deluge, and deſtroyed the Cities Sodome and Gomorrha with fire and brimſtone from heaven, to a Revenger, according to his fierce wrath and judgement, heere in time, and there in eternity, Revel. 20. 22. Eſa. 63. 66.</p>
+            <div type="part">
+               <head>Pſal. 75. 89. 97.</head>
+               <p>
+                  <note place="margin">Ezeck. 36. Eſay 2. 30. 42. Mich. 5. 7. Eſay 41. 43, 44, 45.</note> To maintayne the honour of the Holy Name of God, and to deliver really the reſt of the little worme of Jacob, and poor flock of Iſrael, namely the herd of Chriſt, which is very little, Luke 12. Zeph. 3.</p>
+               <p>
+                  <note place="margin">Dan. 12. Pſal. 89. 132. Eſay <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Eſd. 4. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 6. 7. 9. 16. Jerem. 23. Marke 13. Rom. 12. Epiſt. Jude.</note> A warriour of the Lord, Or, King after the Order of David.</p>
+               <p>If the right truth of the word of God ſhall breake foorth, and be maintained, and faith accordingly yet once bloſſome, bud and grow, Eſa. 33. Ebr. 4. 10. 12. then muſt the hypocriſie and lies of the falſe Prophets, which do not ſerve God and the Lord Chriſt, but the world and their belly, wholly periſh, for which purpoſe there ſhall be a judgement.</p>
+               <p>
+                  <note place="margin">Eſay 34. 40. 66. Pſal. 24. 50. 89 95. Dan. 4. 5.</note> The ſame God unto whom both Heaven and Earth chiefly be<g ref="char:EOLhyphen"/>longeth, who maketh the Lords to be without Land, and ſuffe<g ref="char:EOLhyphen"/>red the great King of Babylon to go amongſt the Beaſts in the for<g ref="char:EOLhyphen"/>reſt, when hee, out of his proud and inſolent heart, would not be<g ref="char:EOLhyphen"/>lieve,
+<pb n="3" facs="tcp:114796:2"/>
+that the moſt-high had power and dominion over the King<g ref="char:EOLhyphen"/>domes <note place="margin">Matth. 24. Epiſt. Jude. 1 Theſ. 5. Zeph. 1. 2. Eſay 60. Amos 5. 9.</note>of men, he hath determined unto the Hypocrites, mockers and deſpiſers a day which they ſhall not eſcape. And if all Chriſtian Kings ſhall not, in humility of mind and conſcience be<g ref="char:EOLhyphen"/>fore God, afford helpe and aſſiſtance, that Zion may be built, and further deſtruction, (which even in moſt Kingdomes is now <note place="margin">Heb. 6. Tit. 1.</note>ſpunne and wrought:) according to righteouſneſſe, appeaſed or prevented, then they ſhall have the ſame God, who lyeth not, Mal. 3. ſuch a conſuming fire, as is denounced in his word long <note place="margin">Heb. 10. 12. Rev. 3. Marke 13.</note>ſince to the unbelieving, ungodly, lukewarme, falſe Chriſtians, being neither hot nor cold, 2. Pet. 3. Mal. 4.</p>
+               <p>
+                  <note place="margin">Wiſd. 6. Acts 17. Jer. 10. Rom. 1. Eſay 1. 2. 30. 49. 52. Pſal. 82. Jer. 21. and 22. Eſay 60.</note> Ye are the Officers of my Kingdome, ſaith God, who giveth life and breath to every man: but thoſe Gods who have not made Heaven and Earth, who are become vaine in their imaginations, detaining the truth in unrighteouſneſſe, nay all Heathens or king<g ref="char:EOLhyphen"/>domes, who will not ſerve God, or helpe thereto, that Zion may be built, the poor and fatherles delivered, the miſerable and needy ones obtaine juſtice, the afflicted and diſtreſſed reſcued and freed from the violence of the wicked, or hands of the oppreſſors; thoſe, I ſay, ſhall periſh and be rooted out from the Earth, and from un<g ref="char:EOLhyphen"/>der the Heavens, Jerem. 10. Wherefore alſo the mighty ones in <note place="margin">Jer. 5. 8. 9. Rev. 10. Matth. 11. Eſay 65. 66. Jer. 30. 2 Pet. 3. Ezeck. 21<g ref="char:punc">▪</g>
+                  </note>thoſe parts have already long ſince been called upon, according to the juſtice of the Lord, by reaſon of the miſeries in Germany. But the everlaſting (Revel. 19. Eſa. 63.) and fierce wrath of God, Rom. 1. and his vengeance and judgement, 2. Theſſ. 1. ſhall not onely in one reſpect alone, but double and treble fall upon thoſe mockers and deſpiſers, who blaſpheme the right of the Lord, and pervert all what is upright, going about to build Zion with blood, <note place="margin">Mich. 3. Amos 5. James 5. Marke 12.</note>and Jeruſalem with unrighteouſneſſe, robbing the poore of his ſweat and blood, and bringing thereby him, <hi>viz.</hi> their own Land and their ſubjects therein, into totall ruine and deſtruction; and moreover ſuffer their neighbors or fellow-members, who, accor<g ref="char:EOLhyphen"/>ding <note place="margin">1 Cor. 13. Rev. 17. 18. Dan. 12. 1 John 3.</note>to the juſtice and judgemet of God, might, could and ought to have been delivered, with body and ſoule, to periſh. Therefore this <hi>Cains</hi>-generation had beſt to obſerve well this power, com<g ref="char:EOLhyphen"/>mandement and meſſage of God, not onely according to this, but alſo many other and former writings ſent thither, in the behalfe <note place="margin">Mich. 3. Heb. 4. 10. 11. Eccleſ. 35.</note>of the poore and diſtreſſed, whoſe miſery and calamity on all ſides crieth and ſigheth to God in the Heavens, Pſal. 10. 94.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:114796:3"/>
+               <head>The <hi>WORD</hi> of <hi>GOD,</hi>
+               </head>
+               <p>
+                  <note place="margin">Mich 6. Rev. 12. Rom. 11. 1 Pet. 2.</note> Which by reaſon of this preſent confuſion and calamity in the Romane Empire, is directed to the Heathen, viz. the People of the ſecond or New Teſtament, and by reaſon of theſe ſelfe-re<g ref="char:EOLhyphen"/>vengefull, Cain-like, cruell murthering and robbing warres, hath in particular been ſent and delivered to the Kings of Swe<g ref="char:EOLhyphen"/>den and Denmarke, and alſo often to the Governours in the Low Countries, who will build Zion with blood, Mich. 3. and thereby pervert the judgement of God concerning the deſtru<g ref="char:EOLhyphen"/>ction of the Whore of Babylon, Pſal. 10. and 94.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <note place="margin">Eph. 4. Hoſ. 10. 2 Cor. 4. 1 Cor. 3. 6. Rom. 1. John 14. Revel. 20. Jerem. 8. Dan. 7. 1 Cor. 4. Heb. 10. Rom. 12. Pſal. 94.</note> Who</head>
+               <p>Likewiſe by untying and breaking the Bond of the Love of God, are divided aſunder, and in Chriſt the light of Faith blinded; Whereby they, in ſtead of the Holy Ghoſt or power of the Goſpell, are ſo maſtered and poſſeſſed by the Prince of this World, that they by no meanes will leave off to ſupport and uphold Babel againſt the juſtice and judgement of God, and to tread under feet the Son of God, through their owne judging and revenging.</p>
+            </div>
+            <div type="part">
+               <p>To reject the Word of the LORD, and to be diſobedient to God, is the Sinne of Witchcraft; and ſtubborneſſe is Iniquity and Idolatry, <hi>1. Sam. 15.</hi>
+               </p>
+               <p>
+                  <pb n="5" facs="tcp:114796:3"/>
+                  <note place="margin">Deut. 4. 6. 32. 33. chap. Marke 12. Gen. 1. Acts 4. 7. 14. 17. Eſay. 40. 43, 44 45, 46, 48, 51, 66. Heb. 11. Jerem. 5. Mal. 1. Eſay 48. Rom. 11. Eſay 48. 57. 1 Pet. 2. Eph. 6. Rev. 20. 2 Cor. 4. Eph. 4. Eſay 40. 1 Tim. 6. Gal. 1. 2 Tim. 4. 2 Pet. 2. Heb 4. Jer. 23. Matth. 11. 12. Luke 10. 11. 12. 2 Tim. 2. Eph. 4. 5. Matth. 7. and 24. chap. Acts 20. 2 Tim. 2. 1 Cor. 3. 12. Rom. 16. Phil. 3. Marke 13. Jerem. 23. 1 Cor. 6. 12. Rom. 12. Eph. 2. 1 Pet. 2. Coloſ. 2. 3. Eph. 4. 5. Luke 21. Matth 24. Marke 13. Jerem. 7. and 11. chap. 2 Pet 2. Hoſea 4. Col. 1. and 2.</note> There is but One Only God, <hi>viz.</hi> the ſame, who, through the hand of his Divine Power, hath of Nothing, Created the Hea<g ref="char:EOLhyphen"/>vens, the Earth, the Seas, and all that therein is<g ref="char:punc">▪</g> Whom that People, which nameth it ſelfe after his holy Name, ſhould juſt<g ref="char:EOLhyphen"/>ly before all other people, honour, praiſe, ſerve and feare, Hoſea 13.</p>
+               <p>But theſe Heathen who brag of Chriſtianity, and yet moſt ob<g ref="char:EOLhyphen"/>ſtinately and preſumptuouſly will be counted the Only people of God, are in their hearts and conſciences ſo poſſeſſed and blinded by the Prince of this World<g ref="char:punc">▪</g> 
+                  <hi>viz</hi> the ſpirit of Eternall darkneſſe, that they are altogether unmindfull and careleſſe of the Eternall, Infinite and Inviſible God; nay, they wil not ſo much as acknow<g ref="char:EOLhyphen"/>ledge Him amongſt them, in the vaine and curſed Doctrine of thoſe falſe Teachers, whom they have choſen to themſelves, nor according to the power and truth of his Living Word, in regard of theſe preſent workes and deeds.</p>
+               <p>Seeing that God in his Word long ſince faithfully enough, hath given warning, carefully to take heed and to beware of the falſe Prophets, <hi>viz.</hi> of thoſe horrible ravening Wolves in ſheeps clothing, who, with their contentious pratings and diſputing, are the very prime and principall cauſe of all diviſion, diſtraction, conciſion, confuſion and ſeduction, Eſa 3. and 10. chap. Ezech. 13.</p>
+               <p>God ſpeakes in his Word that the true believers being Mem<g ref="char:EOLhyphen"/>bers of his Body, ought to be compacted, built and rooted toge<g ref="char:EOLhyphen"/>ther, through the Bond of Peace, and the Love of God.</p>
+               <p>But the Divell, through the mouth of the falſe Prophets in the ſtone-Churches and Chappels, or carnall Congregations, ſaith; Heere is Chriſt, there is Chriſt: Heer is the Temple of the Lord, heere is the Temple of the Lord: Come hither and heare us, and let your ſinnes bee forgiven you, &amp;c. and all this to that people which hath loſt and forſaken Chriſt the Head of the Church and Saviour of his Body, according to his Eternall, Divine and Undi<g ref="char:EOLhyphen"/>viſible Power and Vertue.</p>
+               <p>Now although God (richly and) abundantly hath warned the Heathen as well as the Jewiſh Nation, not to be haughty &amp; proud in their unbeliefe; yet notwithſtanding they being in and through all Cities and Countreyes, yea through all Realmes, as Germany, Denmark, Sweden, Holland and other places divided one from a<g ref="char:EOLhyphen"/>nother
+<pb n="6" facs="tcp:114796:4"/>
+                  <note place="margin">Acts 4. Rev. 18. 2 Pet. 2. Ezeck. 13. Matth. 7. Rev. 16. 2 Cor. 11. Dan. 7. Matth. 24. Eſay. 59. Pſal. 58. 82. Eſay 51. Rom. 9. Jer. 30. Matth. 24. Eſay 41. 43. Hoſea 6. 7. 9. 12. Nah. 3. Jer. 8. Hoſea 4. Matth. 24. Eſay 30. Ezeck. 22. Jer. 2. 7. 22. Mich. 3. 7. Zach. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1. Rev. 12. 16. 20 chap. Mich. 5. Pſal. 33. Nah. 1. Eccleſ. 35. James 5. Wiſd. 6. 12. Eſay 24. 34. Ezeck. 34. Rom. 11. 1 Pet. 2. Eph. 4. Hoſ. 10. 2 Cor. 4. Wiſ. 2. Rom. 1. 2 Cor. 4. Eſay 58. Daniel 12. Rev. 20. Eſay 8. 28. 63. 2 Theſ. 1. Zeph 3</note> in the very abiſſe or depth of their ſoules, or having no ſpi<g ref="char:EOLhyphen"/>rituall communion of God any more amongſt them; they, I <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay, dreame and imagine to have a way to the Father into the e<g ref="char:EOLhyphen"/>verlaſting Kingdome of God, without Chriſt the unity in the Spi<g ref="char:EOLhyphen"/>rit, or foundation of Faith, by the damned arch-witchcraft of their falſe Teachers, Prieſts, and Prophets, being never either ſent or knowne of God, as if they with thoſe falſe Apoſtles, by which Satan the very Divell transformeth himſelfe into an Angel of light, had the truth, and God ſhould be their liar, who long ſince hath foretold the ſtate and condition of this preſent, laſt, and lamentable time, <hi>viz.</hi> that Faith ſhould be extinguiſhed, love by many grow cold, and unrighteouſneſſe get the upper hand.</p>
+               <p>But ſeeing that theſe people wholly neglect and deſpiſe the Lord of Sabbath concerning the reall and fundamentall alterati<g ref="char:EOLhyphen"/>on and removing of this preſent diſtreſſe, miſery and great cala<g ref="char:EOLhyphen"/>mity, for his ſeeds ſake; and moreover that they for to main<g ref="char:EOLhyphen"/>taine the Idolatry and Sorcery of their falſe worſhip and religion, wherein is neither faithfulneſſe nor love, neither Faith nor Righ<g ref="char:EOLhyphen"/>teouſneſſe, like the Jewes in former times, eſpecially about the end of the old Teſtament, have begunne and ſtill doe beginne one murthering, robbing, and bloodſheding courſe and enterpriſe, af<g ref="char:EOLhyphen"/>ter and above another, not forbearing thus to bring many thou<g ref="char:EOLhyphen"/>ſands of ſouls to the ſlaughter, it ſhall &amp; muſt ſo be paied home to theſe heathens poſſeſſed of the Divell, who never would obey nor hearken, but with all their ſtrength ſtill doe endeavour to annihi<g ref="char:EOLhyphen"/>late and fruſtrate the counſell of the Lord; even ſo I ſay, as they have deſerved it both of God himſelfe, and alſo of thoſe poore people, who thereby are ruined, made deſolate and deſtroyed, Pſal. 2. and 12.</p>
+               <p>Thus the Heathen, <hi>viz.</hi> the people of the ſecond and new Te<g ref="char:EOLhyphen"/>ſtament, who, by breaking the bond of the love of God, are di<g ref="char:EOLhyphen"/>vided aſunder, and in Chriſt the light of Faith, blinded, are from the face and preſence of Jeſus Chriſt in theſe their darke and ob<g ref="char:EOLhyphen"/>ſcure hearts called upon by <hi>Michael</hi> the Prince of warres, by whom the Lord God, for to maintaine the honour of his word and holy name, and for the fundamentall deliverance of poore Mankinde ſhall ariſe, and make himſelfe manifeſt and knowne.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Hoſ.</hi> 3. <hi>Ierem.</hi> 23. 30. <hi>chap. Ezeck.</hi> 34. 37. <hi>chap</hi>
+               </head>
+               <p>King <hi>David</hi> the ſecond a Warrior of the Lord, <hi>Eſay</hi> 42.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
